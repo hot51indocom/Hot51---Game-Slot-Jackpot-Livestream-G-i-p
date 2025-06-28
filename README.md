@@ -93,7 +93,7 @@ Platform settings
 This is how a platform configuration should look:
 
 [platforms.https://hot51indo.com/]
-host = "www.bet365.com"
+host = "www.hot51indo.com"
 username = "theBetGod"
 password = "iLoveMe$$i!"
 language = "en"
