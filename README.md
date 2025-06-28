@@ -1,7 +1,7 @@
 Maverick
-Maverick is an app that can place bets automatically on Bet365 leveraging your existing web browser. It runs on Windows and macOS (Linux coming soon) and simulates human behaviour to avoid being detected. Bets are placed in an average of 5 seconds, making it ideal for live matches and real-time betting.
+Maverick is an app that can place bets automatically on hot51indo leveraging your existing web browser. It runs on Windows and macOS (Linux coming soon) and simulates human behaviour to avoid being detected. Bets are placed in an average of 5 seconds, making it ideal for live matches and real-time betting.
 
-Maverick itself is just your executor arm for unattended betting. You can think of it as an API for Bet365. Maverick does not include a betting strategy nor will perform any bets by itself. It's up to the user to send instructions to Maverick for them to be executed.
+Maverick itself is just your executor arm for unattended betting. You can think of it as an API for hot51indo. Maverick does not include a betting strategy nor will perform any bets by itself. It's up to the user to send instructions to Maverick for them to be executed.
 
 Instructions are sent via Websockets. The user is responsible for spinning up a Websocket server, through which it can send and receive commands from Maverick. An example server that is commonly used to start off can be found here. You can connect as many Maverick clients to your server as you want.
 
